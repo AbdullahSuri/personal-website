@@ -106,6 +106,7 @@ const skillsData = [
     skills: [
       { name: "SQL", level: "85%" },
       { name: "Data Visualization", level: "80%" },
+      { name: "Pandas and Numpy", level: "90%" },
     ],
   },
   {
