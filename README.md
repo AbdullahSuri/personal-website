@@ -1,4 +1,4 @@
-# [Portfolio Website]([https://your-portfolio-link.com](https://personalwebsite-abdullahkhansuri.vercel.app/))
+# [Portfolio Website](https://personalwebsite-abdullahkhansuri.vercel.app/)
 
 A personal portfolio website showcasing my skills, projects, and professional experience, built using **React** and **Tailwind CSS**.
 
